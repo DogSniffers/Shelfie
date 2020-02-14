@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  color: azure;
+  background-color: red;
+  height: 10%;
+  width: 100%;
+}

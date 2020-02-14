@@ -1,10 +1,10 @@
 module.exports={
     getInventory: (req,res) =>{
-        const inventory = 4
+        // const db = req.app.get('db')
         res.sendStatus(200)
         // res.send(inventory)
     },
-    // addInventory:(req,res) =>{
+    // addProduct:(req,res) =>{
     //     res.status(200).send(inventory)
     // },
     // editInventory:(req,res) =>{
