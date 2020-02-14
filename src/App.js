@@ -14,6 +14,13 @@ class App extends React.Component{
       inventory:[]
     }
   }
+
+  // componentDidMount(){
+  //   this.getInventory
+  // }
+  //  getInventory(){
+
+  //  }
   
   render(){
   return (
