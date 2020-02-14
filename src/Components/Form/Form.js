@@ -1,5 +1,5 @@
 import React,{ Component } from "react";
-import Axios from 'axios';
+// import Axios from 'axios';
 // import Express from "express";
 
 export default class Form extends Component{
@@ -30,8 +30,8 @@ export default class Form extends Component{
 
 
     render(){
-        console.log(this.state)
-        console.log(this.handleChangeName.newName)
+        // console.log(this.state)
+        // console.log(this.handleChangeName.newName)
         return(
             <div>
                 <div>Form</div>
